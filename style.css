@@ -1,0 +1,42 @@
+body{
+    background-color: beige;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+h1{
+    text-align: center;
+    margin: 25px;
+}
+.Section{
+    display: flex;
+}
+.A{
+    width: 35%;
+    background: #9baeb4;
+    color: azure;
+    padding: 30px;
+    text-align: center;
+}
+.A h3{
+    text-align: center;
+    margin-top: 30px;
+}
+.A p{
+    text-align: justify;
+}
+.B{
+    width: 65%;
+    padding-left: 35px;
+    padding-right: 35px;
+}
+.B1{
+    margin-bottom: 30px;
+}
+.B1 h2{
+    border-bottom: 2px solid;
+    background-color: aliceblue;
+    padding-bottom: 8px;
+}
+ul{
+    padding-left: 20px;
+}
