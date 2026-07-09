@@ -91,7 +91,23 @@ ul{
     padding: 15px 0;
     text-align: center;
 }
-
+.nav{
+ background-color:#34495e;
+ padding: 10px20px;
+}
+.nav ul {
+    list-style:none;
+    display: flex;
+    gap:24px;
+    margin:0;
+    padding: 0;
+}
+nav a{
+    color: white;
+    text-decoration:none;
+    font-size: 0.95em;
+    font-weight: bold;
+}
 
 
 
